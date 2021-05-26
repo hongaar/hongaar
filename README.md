@@ -1,9 +1,11 @@
 <h1 align="center">👋</h1>
 
 <p align="center">
-  I joined GitHub on 18/02/2010,<br/>
-  contributed to 65 repositories<br/>
-  and made 1413 0 commits.
+  I joined GitHub on 18/02/2010.
+</p>
+
+<p align="center">
+  Made 1747 commits to 39 open-source repositories.
 </p>
 
 <p align="center">
