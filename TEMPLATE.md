@@ -3,7 +3,7 @@
 <p align="center">
   I joined GitHub on {{ f.date(REGISTRATION_DATE, {dateStyle: "short"}) }},<br/>
   contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories<br/>
-  and made {{ COMMITS }} commits.
+  and made {{ COMMITS }} {{ COMMITS_PRIVATE }} commits.
 </p>
 
 <p align="center">
