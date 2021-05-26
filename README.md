@@ -1,6 +1,11 @@
-# 👋
+<h1 align="center">👋</h1>
 
-I joined GitHub on `18/02/2010`.
-I contributed to `65` repositories and made `1409` commits.
+<p align="center">
+  I joined GitHub on `18/02/2010`,<br/>
+  contributed to `65` repositories<br/>
+  and made `1410` commits.
+</p>
 
-<img src="https://github.com/hongaar/hongaar/blob/main/.cache/languages.svg">
+<p align="center">
+  <img src="https://github.com/hongaar/hongaar/blob/main/.cache/languages.svg">
+</p>
