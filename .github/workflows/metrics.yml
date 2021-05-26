@@ -19,3 +19,4 @@ jobs:
 
           template: markdown
           filename: README.md
+          markdown: TEMPLATE.md
