@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Made 4158 commits to 36 open-source repositories.
+  Made 4152 commits to 36 open-source repositories.
 </p>
 
 <p align="center">
