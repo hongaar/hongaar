@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.81385152985422" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="177.81385152985422" y="0" width="113.68877030872994" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="291.50262183858416" y="0" width="60.50726127197454" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="352.0098831105587" y="0" width="43.82696003299888" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="395.8368431435576" y="0" width="36.86483011506843" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.701673258626" y="0" width="14.796826478569349" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="447.49849973719535" y="0" width="10.79317342486201" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.29167316205735" y="0" width="1.7083268379426464" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.29048869401177" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="164.29048869401177" y="0" width="131.19797588395747" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="295.48846457796924" y="0" width="55.90547327096133" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="351.3939378489306" y="0" width="40.49376704820659" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.88770489713716" y="0" width="34.32967088994825" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="426.2173757870854" y="0" width="18.024396461620825" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.2417722487063" y="0" width="13.671476279093481" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="457.9132485277998" y="0" width="2.0867514722002705" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -63,21 +63,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Vim script
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        HTML
+                        Vim script
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
                     </div>
                 </div>
             </section>
