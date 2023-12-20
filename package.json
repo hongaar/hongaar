@@ -1,0 +1,24 @@
+{
+  "name": "hongaar",
+  "version": "1.0.0",
+  "repository": "github:hongaar/hongaar",
+  "license": "MIT",
+  "author": "Joram van den Boezem <joram@vandenboezem.nl>",
+  "scripts": {
+    "build": "echo 'not implemented'",
+    "format": "prettier --write --ignore-unknown .",
+    "format:check": "prettier --check --ignore-unknown .",
+    "start": "serve",
+    "test": "echo 'not implemented'"
+  },
+  "devDependencies": {
+    "prettier": "3.1.1",
+    "serve": "14.2.1"
+  },
+  "packageManager": "yarn@4.0.2",
+  "moker": {
+    "plugins": [
+      "prettier"
+    ]
+  }
+}
