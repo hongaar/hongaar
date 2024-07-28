@@ -1,3 +1,1 @@
-👋 I joined GitHub on 18/02/2010 and
-so far I made 4603 commits to 17
-open-source repositories.
+You did not provide a valid "markdown" query parameter, which is required to use this template.
