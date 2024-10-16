@@ -17,5 +17,5 @@ jobs:
           config_timezone: Europe/Amsterdam
           template: markdown
           filename: README.md
-          markdown: TEMPLATE.md
+          markdown: https://raw.githubusercontent.com/hongaar/hongaar/main/TEMPLATE.md
           plugin_languages: true
