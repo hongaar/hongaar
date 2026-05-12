@@ -1,3 +1,3 @@
 👋 I joined GitHub on 18/02/2010 and
-so far I made 5666 commits to 16
+so far I made 5665 commits to 16
 open-source repositories.
